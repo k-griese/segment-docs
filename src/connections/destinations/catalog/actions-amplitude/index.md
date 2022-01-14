@@ -13,7 +13,7 @@ perform, you can gain a better understanding to drive retention, engagement, and
 ## Benefits of Amplitude (Actions) vs Amplitude Classic
 
 Amplitude (Actions) provides the following benefits over the classic Amplitude destination:
-- **Fewer settings**. Data mapping for actions-based destinations happens in during configuration, which eliminates the need for most settings.
+- **Fewer settings**. Data mapping for actions-based destinations happens during configuration, which eliminates the need for most settings.
 - **Clearer mapping of data**. Actions-based destinations enable you to define the mapping between the data Segment receives from your source, and the data Segment sends to the destination.
 - **Support for Amplitude's HTTP API v2**. Amplitude (Actions) is built on the latest version of [Amplitude's HTTP API](https://developers.amplitude.com/docs/http-api-v2){:target="_blank"}.
 - **Revenue is a top-level property**. Amplitude (Actions) elevates `revenue` to a top-level property in requests sent to Amplitude. This enables inclusion of this data in Amplitude features like customer LTV reports.
